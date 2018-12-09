@@ -1,6 +1,6 @@
 /* This is a simple Java program. 
    FileName : lio.java". */
-class HelloWorld 
+public class lio 
 { 
     // Your program begins with a call to main(). 
     // Prints "Hello, World" to the terminal window. 
